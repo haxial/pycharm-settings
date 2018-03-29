@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.py</mask>
+      <mask>.</mask>
+      <mask>.i</mask>
+      <mask>.in</mask>
+      <mask>.ini</mask>
+      <mask>*.ini</mask>
+      <mask>e</mask>
+      <mask>ex</mask>
+      <mask>exa</mask>
+      <mask>exar</mask>
+      <mask>exarp</mask>
+      <mask>exarpc</mask>
+      <mask>exarpc.</mask>
+      <mask>exarpc.p</mask>
+      <mask>exarpc.py</mask>
+      <mask>j</mask>
+      <mask>jm</mask>
+      <mask>jme</mask>
+      <mask>jmes</mask>
+      <mask>jmespa</mask>
+      <mask>jmespath</mask>
+      <mask>ipaddr.py</mask>
+      <mask>socket.py</mask>
+      <mask>variables.robot</mask>
+      <mask>*.cfg</mask>
+    </recentFileMasks>
+  </component>
+</application>
